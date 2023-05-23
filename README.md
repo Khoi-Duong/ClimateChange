@@ -20,6 +20,7 @@ For this project, you will work  to solve, analyze, or visualize a problem using
     * Google Cloud SQL
     * Amazon AWS
     * Tableau
+
 For this project, you can focus your efforts within a specific industry, as detailed in the following examples.
 
 ### Finance
